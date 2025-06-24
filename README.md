@@ -1,6 +1,6 @@
 ## High-order Proximity and Relation Analysis (HoPRA)
  
-High-order Proximity and Relation Analysis for Cross-network Heterogeneous Node Classification. Machine Learning (ML), 2024.  
+High-order Proximity and Relation Analysis for Cross-network Heterogeneous Node Classification. Machine Learning (ML), 2024, 113, 6247-6272.  
 Authors: Hanrui Wu, Yanxin Wu, Nuosi Li, Min Yang, Jia Zhang, Michael K. Ng, Jinyi Long  
 
 Please cite our paper if you find this code helpful to your research:  
