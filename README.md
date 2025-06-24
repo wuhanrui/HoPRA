@@ -8,9 +8,9 @@ Please cite our paper if you find this code helpful to your research:
   title={High-order Proximity and Relation Analysis for Cross-network Heterogeneous Node Classification},  
   author={Wu, Hanrui and Wu, Yanxin and Li, Nuosi and Yang, Min and Zhang, Jia and Ng, Michael Kwok-Po and Long, Jinyi},  
   journal={Machine Learning},  
-  volume={},  
+  volume={113},  
   number={},  
-  pages={},  
+  pages={6247--6272},  
   year={2024}  
 }  
 
